@@ -1,0 +1,12 @@
+{
+  "defaultCommand": "explain",
+  "temperature": 0.2,
+  "maxTokens": 4096,
+  "rules": [
+    "Be concise and practical",
+    "Avoid overengineering",
+    "Return only the requested output",
+    "No explanations unless explicitly requested",
+    "Prefer structured outputs over prose"
+  ]
+}
